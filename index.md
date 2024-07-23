@@ -1,6 +1,6 @@
 ## Ukjae Jeong, 정욱재
 
-Hi, I'm Ukjae Jeong, working as an Machine Learning Engineer, focusing mostly on MLOps and NLP.
+Hi, I'm Ukjae Jeong, working as a Machine Learning Engineer, focusing mostly on MLOps and NLP.
 
 Feel free to reach out to me.
 
@@ -16,7 +16,8 @@ Feel free to reach out to me.
 
 ## Experiences
 
-* Machine Learning Engineer, Danggeun Market Inc.; Seoul, Korea - December 2020 - Present
+* Senior Software Engineer, Bloomberg L.P.; London, United Kingdom - July 2024 - Present
+* Machine Learning Engineer, Danggeun Market Inc.; Seoul, Korea - December 2020 - June 2024
 * Machine Learning Engineer, ScatterLab; Seoul, Korea - December 2019 - November 2020
 * Developer, ScatterLab; Seoul, Korea - March 2019 - December 2019
 
