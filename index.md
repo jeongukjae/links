@@ -11,7 +11,6 @@ Feel free to reach out to me.
 * **[GitHub (@jeongukjae)](https://www.github.com/jeongukjae/)**
 * [Email (jeongukjae@gmail.com)](mailto:jeongukjae@gmail.com)
 * [Twitter (@jeongukjae)](https://twitter.com/jeongukjae)
-* [Facebook (JeongUkJae)](https://www.facebook.com/JeongUkJae/)
 * [Medium (@jeongukjae)](https://medium.com/@jeongukjae)
 
 ## Experiences
@@ -24,7 +23,7 @@ Feel free to reach out to me.
 ## Other experiences
 
 * [Google Open Source Peer Bonus award for the contribution to TFX](https://opensource.googleblog.com/2022/09/announcing-the-second-group-of-open-source-peer-bonus-winners-in-2022.html); September 2022
-* ML Google Developer Expert (ML GDE); February 2022 - Present
+* ML Google Developer Expert (ML GDE); February 2022 - January 2025
 * 2nd place, Asean AI/ML AWS Gameday; Seoul, Korea — November 2021 ([AWS Blog post link](https://aws.amazon.com/ko/blogs/korea/aws-gameday-tour-de-machine-learning-korean-winners/))
 * Finalist, F8 2019 Hackathon; San Jose, USA — May 2019 ([DEVPOST link](https://devpost.com/software/the-city-watch))
 * Jpub Beta-reader 7th ~ 10th — July 2018 - August 2021
